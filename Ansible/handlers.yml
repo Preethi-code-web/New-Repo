@@ -1,5 +1,5 @@
 ---
-- name: Install apache
+- name: Install apache1
   hosts: all
   become: yes
   tasks:
